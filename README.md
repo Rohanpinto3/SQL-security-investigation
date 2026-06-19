@@ -15,8 +15,6 @@ I worked with two datasets — **employees** and **log_in_attempts** — to inve
 ---
 
 ## 📄 Project File
-**sql-security-investigation.pdf**  [View Full PDF Report](https://github.com/Rohanpinto3/SQL-security-investigation/blob/main/sql-security-investigation.pdf.pdf)
-
 [sql-security-investigation.pdf](./sql-security-investigation.pdf.pdf) - View Full PDF Report
 
 This PDF contains my full write-up, explanations, and the SQL queries used in the investigation.
