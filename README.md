@@ -21,8 +21,9 @@ This PDF contains my full write-up, explanations, and the SQL queries used in th
 
 ---
 
-## 🖼 Screenshots
+## 🖼 [Screenshots](./screenshots)
 All SQL query screenshots from the lab environment are stored in the **/screenshots** folder.
+[](./screenshots) - View SQL Query Screenshots
 
 ---
 
